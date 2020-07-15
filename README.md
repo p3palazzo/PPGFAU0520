@@ -8,7 +8,7 @@ o Renascimento até a atualidade.
 
 - [Plano de curso](plano.md)
 - [Cronograma](cronograma.md)
-- [Seminário](seminario.md)
+- [Indicações para participação em seminário](seminario.md)
 
 ## Bibliografia geral ##
 
