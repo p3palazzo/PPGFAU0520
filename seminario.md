@@ -1,5 +1,6 @@
 ---
 title : "Indicações para participação em seminários"
+author: "Pedro P. Palazzo"
 layout: default
 lang  : pt-BR
 ---
