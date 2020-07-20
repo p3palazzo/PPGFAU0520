@@ -42,12 +42,12 @@ Desenvolvimento do semestre
 Desenvolvimento das aulas
 -------------------------
 
-Toda quinta-feira às 10h estarei disponível por videoconferência, na
-plataforma [Microsoft Teams][2] da UnB, para tirar dúvidas e acompanhar
-a discussão dos textos e as atividades da disciplina. Este
-acompanhamento não substitui as atividades de discussão dos textos a ser
-realizada no Aprender 3, mas pode ajudar a resolver questões pontuais ou
-explicações complexas.
+Toda quinta-feira às 10h o professor estará disponível por
+videoconferência, na plataforma [Microsoft Teams][2] da UnB, para tirar
+dúvidas e acompanhar a discussão dos textos e as atividades da
+disciplina. Este acompanhamento não substitui as atividades de discussão
+dos textos a ser realizada no Aprender 3, mas pode ajudar a resolver
+questões pontuais ou explicações complexas.
 
 Programa
 ========
