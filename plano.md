@@ -52,6 +52,17 @@ questões pontuais ou explicações complexas.
 Programa
 ========
 
+ 1. Medida, proporção, módulo
+ 2. Arquitetura e música
+ 3. Elementos construtivos e modularidade
+ 4. Proporções racionais e geométricas
+ 5. Arquitetura algorítmica
+ 6. Correções visuais
+ 7. Medidas numéricas e beleza arbitrária
+ 8. Monumentalidade e escala humana
+ 9. Malha e traçado regulador
+10. Módulos generativos
+
 Apoio ao aluno
 ==============
 
