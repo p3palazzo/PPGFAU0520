@@ -115,6 +115,9 @@ O cronograma da disciplina prevê o cumprimento de um tópico por semana.
 Bibliografia
 ============
 
+Outros textos não indicados nas bibliografias abaixo poderão ser
+estipulados segundo o programa do semestre.
+
 Básica
 ------
 
