@@ -5,9 +5,11 @@ vpath %.xml _site
 vpath %.yaml spec
 
 PANDOC    = $(filter-out README.md,$(wildcard *.md))
-PAGES    := $(patsubst %.md,_site/%.html,$(PANDOC))
+HTML     := $(patsubst %.md,_site/%.html,$(PANDOC))
 
-deploy : jekyll
+deploy : jekyll $(HTML)
+
+pandoc : $(HTML)
 
 racionalismo-plano.pdf : racionalismo-plano.tex basica.bib \
 	complementar.bib fontes.bib
@@ -25,7 +27,7 @@ racionalismo-plano.tex : pdf.yaml plano.md
 		-v "`pwd`/assets/fonts:/usr/share/fonts" \
 		pandoc/latex:2.10 -o $@ -d $^
 
-jekyll : $(PAGES) README.md
+jekyll : clean $(HTML) README.md
 	docker run --rm -v "`pwd`:/srv/jekyll" \
 		jekyll/jekyll:4.1.0 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
 

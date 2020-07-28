@@ -14,12 +14,11 @@ geometry:
 - left=80pt
 - textwidth=440pt
 - textheight=680pt
-nocite  : "@*"
 bibliography:
 - basica.bib
 - complementar.bib
 biblio-style: "chicago-notes"
-suppress-bibliography: false
+suppress-bibliography: False
 biblatexoptions:
 - strict
 - backend=biber

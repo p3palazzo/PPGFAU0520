@@ -1,4 +1,5 @@
 ---
+title   : "Bibliografia complementar"
 lang    : pt-BR
 layout  : default
 nocite  : "@*"

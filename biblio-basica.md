@@ -1,4 +1,5 @@
 ---
+title   : "Bibliografia básica"
 lang    : pt-BR
 layout  : default
 nocite  : "@*"
