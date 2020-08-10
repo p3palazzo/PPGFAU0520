@@ -53,13 +53,13 @@ Programa
 ========
 
  1. Medida, proporção, módulo
- 2. Arquitetura e música
- 3. Modularidade dos componentes construtivos
+ 2. Modularidade dos componentes construtivos
+ 3. Arquitetura e música
  4. Tipologia e padronização de medidas
  5. Proporções racionais e geométricas
- 6. Arquitetura algorítmica
- 7. Correções visuais
- 8. Medidas numéricas e beleza arbitrária
+ 6. Arquitetura algorítmica e generativa
+ 7. Imprensa, visualidade e numeração
+ 8. Correções visuais e beleza arbitrária
  9. Monumentalidade e escala humana
 10. Malha e traçado regulador
 
