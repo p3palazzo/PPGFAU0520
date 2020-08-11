@@ -15,6 +15,7 @@ styles
 tmp
 
 # Jekyll {{{1
+_downloads
 _site/
 Gemfile.lock
 .sass-cache/

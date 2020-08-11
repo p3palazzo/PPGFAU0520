@@ -20,7 +20,7 @@ racionalismo-plano.pdf : racionalismo-plano.tex basica.bib \
 racionalismo-plano.tex : pdf.yaml plano.md
 	docker run --rm -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		-v "`pwd`/assets/fonts:/usr/share/fonts" \
-		pandoc/latex:2.10 -o $@ -d $^
+		pandoc/crossref:2.10 -o $@ -d $^
 
 %.pdf : pdf.yaml %.md
 	docker run --rm -v "`pwd`:/data" --user "`id -u`:`id -g`" \

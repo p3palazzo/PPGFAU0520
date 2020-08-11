@@ -187,7 +187,7 @@ Programa
  1. Medida, proporção, módulo
  2. Modularidade dos componentes construtivos
  3. Arquitetura e música
- 4. Tipologia e padronização de medidas
+ 4. Tipologia e permutações
  5. Proporções racionais e geométricas
  6. Arquitetura algorítmica e generativa
  7. Imprensa, visualidade e numeração
