@@ -46,9 +46,9 @@ aproveitamento do conteúdo.
 
 * * * *
 
- Racionalismo (c) 2020 by Pedro P. Palazzo
+ PPGFAU0520 (c) 2020 by Pedro P. Palazzo
  
- Racionalismo is licensed under a
+ PPGFAU0520 is licensed under a
  Creative Commons Attribution 3.0 Unported License.
  
  You should have received a copy of the license along with this
